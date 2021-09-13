@@ -17,8 +17,6 @@ Clone do Google Drive com funções de upload de arquivos sob demanda. O projeto
 <h2 id="layout">✨ Layout</h2>
 <div align="center">
 <img src="./resources/previewGDrive.gif">
-<br/>
-<img src="./src/Images/layout2.gif">
 </div>
 <br>
 
