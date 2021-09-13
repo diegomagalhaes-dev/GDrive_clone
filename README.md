@@ -14,7 +14,7 @@ Clone do Google Drive com funções de upload de arquivos sob demanda. O projeto
 ➙ <a href="https://github.com/mscdex/busboy#readme">Busboy</a><br>
 ➙ <a href="https://socket.io/">Socket IO </a> <br>
 
-<h2 id="layout">✨ Layout</h2>
+<h2 id="layout">✨ Preview</h2>
 <div align="center">
 <img src="./resources/previewGDrive.gif">
 </div>
