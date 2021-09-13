@@ -115,7 +115,7 @@ describe("#Routes test suite", () => {
         {
           size: "188 kB",
           lastModified: "2021-09-03T20:56:28.443Z",
-          owner: "erickwendel",
+          owner: "diegomg",
           file: "file.txt",
         },
       ];
